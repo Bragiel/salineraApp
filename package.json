@@ -1,0 +1,27 @@
+{
+  "name": "salineraApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bragiel/salineraApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bragiel/salineraApp/issues"
+  },
+  "homepage": "https://github.com/Bragiel/salineraApp",
+  "devDependencies": {
+    "concat": "^1.0.0",
+    "express": "^4.13.3",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.0.4",
+    "livereload": "^0.3.7",
+    "uglify": "^0.1.5"
+  }
+}
